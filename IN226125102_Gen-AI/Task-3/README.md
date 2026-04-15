@@ -100,6 +100,7 @@ The `screen_resume_with_tags()` function passes `RunnableConfig` with tags and m
 ```
 AI-Resume-Screening-System/
 ├── AI_Resume_Screening_System_with_Tracing.ipynb
+└── screen_shots_Tracing.jpeg
 └── README.md
 ```
 
